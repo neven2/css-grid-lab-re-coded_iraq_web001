@@ -9,7 +9,7 @@ body {
   width: 100vw;
   /* your properties here */
   display: grid;
-  gird-template:1fr 1fr 1fr 1fr/1fr 1fr 1fr;
+  gird-template: 1fr 1fr 1fr 1fr/1fr 1fr 1fr;
 }
 
 .grid-item {
